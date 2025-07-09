@@ -67,7 +67,7 @@ This method is for users who prefer to review the code and configure files manua
 **1. Clone the Repository**
 ```bash
 git clone https://github.com/airdropalc/Union-Auto-Swap-V2.git
-cd Union-Auto-Swap
+cd Union-Auto-Swap-V2
 ```
 
 **2. Install Dependencies**
