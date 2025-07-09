@@ -47,7 +47,7 @@ Choose the installation method that best suits your needs.
 ### Option 1: Easy Install (One-Click)
 This is the fastest way to get started. Run the single command below to download and execute the setup script.
 ```bash
-wget https://raw.githubusercontent.com/airdropalc/Union-Auto-Swap/refs/heads/main/union.sh -O union.sh && chmod +x union.sh && ./union.sh
+wget https://raw.githubusercontent.com/airdropalc/Union-Auto-Swap-V2/refs/heads/main/union.sh -O union.sh && chmod +x union.sh && ./union.sh
 ```
 
 ### Option 2: Manual Installation (Full Control)
@@ -55,7 +55,7 @@ This method is for users who prefer to review the code and configure files manua
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/airdropalc/Union-Auto-Swap.git
+git clone https://github.com/airdropalc/Union-Auto-Swap-V2.git
 cd Union-Auto-Swap
 ```
 
