@@ -1,7 +1,7 @@
 # 🤖 Union Auto-Swap Bot v2
 ---
 Union Auto-Swap previous version
-<div align="right">
+<div>
   
 [![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/airdropalc/Union-Auto-Swap)
 
