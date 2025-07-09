@@ -1,7 +1,11 @@
 # 🤖 Union Auto-Swap Bot v2
 ---
-Union Auto-Swap 
+Union Auto-Swap previous version
+<div align="right">
+  
 [![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/airdropalc/Union-Auto-Swap)
+
+</div>
 
 A purpose-built script designed to automate daily swap transactions on the Union testnet, helping you maintain consistent on-chain activity with minimal effort.
 
