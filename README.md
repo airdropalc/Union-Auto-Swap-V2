@@ -2,7 +2,7 @@
 ---
 Union Auto-Swap previous version
 
-[Union-Auto-Swap 1.0.0](https://github.com/airdropalc/Union-Auto-Swap)
+*[Union-Auto-Swap 1.0.0](https://github.com/airdropalc/Union-Auto-Swap)
 
 <div>
 
