@@ -2,8 +2,8 @@
 ---
 Union Auto-Swap previous version
 <div>
-  
-[![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/airdropalc/Union-Auto-Swap)
+[Union-Auto-Swap 1.0.0](https://github.com/airdropalc/Union-Auto-Swap)
+[![Union-Auto-Swap](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/airdropalc/Union-Auto-Swap)
 
 </div>
 
